@@ -1,7 +1,5 @@
 # Model Prediction for Machine Failure ⚙️💻
 
-This project is submitted as part of the final requirement by **The Game Changers Team**, supported by Universitas Udayana, Universitas Brawijaya, Universitas Diponegoro, Universitas Gajah Mada, and Universitas Pendidikan Indonesia.
-
 ---
 
 ## Project Background
