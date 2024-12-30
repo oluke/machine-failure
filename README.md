@@ -1,7 +1,5 @@
 # Model Prediction for Machine Failure ⚙️💻
 
----
-
 ## Project Background
 
 Machine failures are a common challenge in the manufacturing industry, leading to unexpected downtime and increased costs. Understanding and predicting machine failures is critical for improving operational efficiency and reducing expenses. With advancements in predictive maintenance, leveraging data-driven models can significantly aid in early detection and prevention of such failures.
