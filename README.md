@@ -114,6 +114,6 @@ Top 5 contributing factors:
 ## Thank You 🙏
 
 Explore more:
-- [Dashboard](https://bit.ly/Dashboard_The_Game_Changers)
-- [Code Repository](https://bit.ly/Coding_The_Game_Changers)
+- [Dashboard](https://github.com/oluke/predictive-maintenance/tree/main/dashboard)
+- [Code Repository](https://github.com/oluke/predictive-maintenance/tree/main/code)
 
